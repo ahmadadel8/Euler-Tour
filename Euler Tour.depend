@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607713501 source:/home/ahmadadel/Euler Tour Project/Euler Tour/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
